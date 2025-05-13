@@ -42,7 +42,7 @@ A real-time neural interface that decodes motor signals from EMG data using deep
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/emg_decoder.git
+git clone https://github.com/aysha2016/emg_decoder.git
 cd emg_decoder
 ```
 
@@ -137,27 +137,4 @@ The system implements:
 - Frequency domain features:
   - Power in delta, theta, alpha, beta, and gamma bands
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- TensorFlow and Keras teams for the deep learning framework
-- Streamlit for the dashboard framework
-- The open-source community for various tools and libraries
-
-## 📚 References
-
-1. EMG Signal Processing and Classification
-2. Deep Learning for Biosignal Processing
-3. Real-time Neural Interfaces
-4. TensorFlow Lite for Microcontrollers
-
-## 🆘 Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
+ 
