@@ -1,0 +1,13 @@
+tensorflow>=2.12.0
+keras>=2.12.0
+numpy>=1.23.5
+matplotlib>=3.7.1
+streamlit>=1.22.0
+scipy>=1.10.1
+pandas>=2.0.0
+scikit-learn>=1.2.2
+pyttsx3>=2.90  # For TTS feedback
+sounddevice>=0.4.6  # For audio processing
+tensorflow-hub>=0.13.0  # For model components
+tensorflow-io>=0.32.0  # For data processing
+tensorflow-model-optimization>=0.7.3  # For TFLite conversion
